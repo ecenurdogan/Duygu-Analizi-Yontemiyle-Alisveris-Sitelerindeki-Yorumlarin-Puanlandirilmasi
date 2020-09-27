@@ -1,0 +1,1 @@
+# Duygu-Analizi-Yontemiyle-Alisveris-Sitelerindeki-Yorumlarin-Puanlandirilmasi
