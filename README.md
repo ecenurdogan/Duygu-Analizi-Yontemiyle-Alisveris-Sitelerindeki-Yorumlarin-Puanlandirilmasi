@@ -1,4 +1,5 @@
-Python programlama dili, Spyder derleyicisi kullanılarak geliştirilmiştir. Aşağıda program çalıştığında verdiği çıktıyı görebilirsiniz.
+Python programlama dili, Spyder derleyicisi kullanılarak geliştirilmiştir. Doğal dil işleme (NLP), metin madenciliği ve regresyon analizi kullanıldı.
+Aşağıda program çalıştığında verdiği çıktıyı görebilirsiniz.
 
 ### Veri seti:
 
@@ -17,7 +18,7 @@ Python programlama dili, Spyder derleyicisi kullanılarak geliştirilmiştir. A�
 - Numpy
 - NLTK
 
-The Python programming language was developed using the Spyder compiler. The output of the program can be seen below.
+The Python programming language was developed using the Spyder compiler. Natural language processing (NLP), text mining, and regression analysis were employed. The output of the program can be seen below.
 
 ### Data set:
 
